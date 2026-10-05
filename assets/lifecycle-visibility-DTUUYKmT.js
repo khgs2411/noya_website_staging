@@ -1,0 +1,1 @@
+function e(e){return e.lifecycle_status===`cancelled`||e.temporal_status===`cancelled`}function t(e,t){return e.filter(e=>t||e.status===`active`)}function n(e,t){return e.filter(e=>t||e.status!==`archived`)}function r(t,n){return t.filter(t=>n||!e(t))}function i(e){return e.filter(e=>e.temporalStatus!==`cancelled`)}export{e as a,t as i,r as n,n as r,i as t};

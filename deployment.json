@@ -1,0 +1,9 @@
+{
+  "sourceRepository": "khgs2411/noya_website",
+  "sourceBranch": "staging",
+  "sourceSha": "2aec607b92c24dcc4c79b0092ee769fd151b7ed5",
+  "workflowRun": "https://github.com/khgs2411/noya_website/actions/runs/37324451377",
+  "runAttempt": "1",
+  "previewUrl": "https://khgs2411.github.io/noya_website_staging/",
+  "dataMode": "existing-live-ClassKit-data"
+}
